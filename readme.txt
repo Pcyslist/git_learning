@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 test Fast-forward again
 test --no--ff
+start dev branch
+working on dev regularly 
